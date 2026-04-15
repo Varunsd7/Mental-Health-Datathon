@@ -33,6 +33,6 @@ Model Accuracy: **~79%**
 - Google Colab
 
 ## Author
--Varun Dornal
--Sakshi Kalekar
--Omkar Awade
+- Varun Dornal
+- Sakshi Kalekar
+- Omkar Awade
